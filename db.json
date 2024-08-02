@@ -36,6 +36,7 @@
         "id": 1,
         "titulo": "Desenvolvedor IOS Sênior",
         "criador": "Luciano Camargo",
+        "prioridade": "URGENTE",
         "data": {
           "day": 24,
           "month": 4,
@@ -48,6 +49,7 @@
         "id": 2,
         "titulo": "Desenvolvedor Full Stack Sênior",
         "criador": "Dovano Mendes",
+        "prioridade": "SEM URGÊNCIA",
         "data": {
           "day": 22,
           "month": 4,
@@ -60,6 +62,7 @@
         "id": 3,
         "titulo": "Desenvolvedor Backend .NET Pleno",
         "criador": "Victor Lapaluza",
+        "prioridade": "NORMAL",
         "data": {
           "day": 22,
           "month": 4,

@@ -18,17 +18,17 @@
       {
         "id": 1,
         "titulo": "Total de Vagas",
-        "valor": 60
+        "valor": 20
       },
       {
         "id": 2,
         "titulo": "Total de Candidatos",
-        "valor": 60
+        "valor": 90
       },
       {
         "id": 3,
         "titulo": "Novos Candidatos",
-        "valor": 60
+        "valor": 50
       }
     ]
   }
